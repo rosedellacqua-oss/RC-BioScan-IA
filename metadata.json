@@ -1,0 +1,7 @@
+{
+  "name": "RC-BioScan IA",
+  "description": "Estúdio de diagnóstico capilar avançado com análise de IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
